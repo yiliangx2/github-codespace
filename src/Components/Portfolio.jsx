@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "凶邪黑兽.jpg";
+import image from "重铸大刀.jpg";
 
-const imageAltText = "获取命格";
+const imageAltText = "把大刀变成克豹的形状";
 
 /**
  * Project list
